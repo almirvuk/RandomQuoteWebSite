@@ -1,0 +1,64 @@
+body{
+
+    background: #ecf0f1;
+    text-align: center;
+}
+
+h1{
+
+   color: darkslategray;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+
+   color:#e74c3c;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h6{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+
+#header {
+
+  background: white;
+  width: 600px;
+  margin: 0 auto; 
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom:10px;
+}
+
+#main {
+
+  background: white;
+  width: 600px;
+  height: 200px;
+  margin: 0 auto; 
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom:10px;
+}
+
+.button {
+    
+    background-color: #ff4444;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.button:hover{
+
+    background-color: #000;
+}
+
+
+
+
